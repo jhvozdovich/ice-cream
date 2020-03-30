@@ -1,4 +1,4 @@
- # _Ice Cream - User Inputs_
+ # _Ice Cream Arrays_
 
 #### _Practice with Arrays_
 
